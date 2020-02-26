@@ -4,4 +4,5 @@ It is basicly a base converter. It can be convert given interger in base 10 to a
 Example:
 
 100 --> 1100100 (base 2)
+
 1500 --> (3)(15)(0) (base 20)
